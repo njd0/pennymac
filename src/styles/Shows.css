@@ -1,0 +1,19 @@
+.show-content {
+    overflow-y: auto;
+    padding: 0 64px;
+}
+
+.show-content .show {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 32px;
+}
+
+.show-content .show img {
+    margin-right: 16px;
+}
+
+.show-content .show .info {
+    padding: 16px;
+    background-color: lightgray;
+}

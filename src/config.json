@@ -1,0 +1,8 @@
+{
+    "services": {
+        "tvmaze":{
+            "baseUrl": "https://api.tvmaze.com/search",
+            "shows": "/shows"
+        }
+    }
+}
